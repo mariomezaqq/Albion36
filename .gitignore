@@ -1,0 +1,14 @@
+# Credenciales locales (el token va como secreto/env var en la nube)
+R/credentials.R
+R/secret_token.R
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+rsconnect/
+
+# Sistema
+.DS_Store
+Thumbs.db
